@@ -61,7 +61,6 @@ Step-by-Step Guide
 
     This will execute the script and display the parsed dictionary output for the given log string.
 
-
 5. Running the Tests
     To ensure that everything is working correctly, you can run the unit tests using pytest:
 
