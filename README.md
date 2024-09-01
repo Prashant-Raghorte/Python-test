@@ -35,7 +35,7 @@ Step-by-Step Guide
 1.Clone or Download the Project:
     Download the ZIP file and extract it, or clone the repository using:
 
-    git clone <repository_url>
+    git clone https://github.com/Prashant-Raghorte/python-test
     cd python-test
 
 
